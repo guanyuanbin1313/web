@@ -1,0 +1,43 @@
+*{
+	padding:0;
+	margin:0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.d{
+	background-color: #f4f4f4;
+	width: 1560px;
+	height: 30px;
+}
+.n1{
+	margin-left: 180px;
+	text-align: center;
+	padding-top: 3px;
+	float: left;
+	width: 240px;
+	height: 30px;
+	font-size: 12px;
+	font-family: 微软雅黑;
+}
+.n2{
+	width: 250px;
+	height: 30px;
+	float: left;
+	text-align: center;
+	margin-left: 724px;
+	padding-top: 3px;
+	font-size: 12px;
+	font-family: 微软雅黑;
+}
+.t1{
+	width: 1560px;
+	height: 158px;
+}
+.n3{
+	padding-left: 180px;
+	padding-top: 26px;
+}
